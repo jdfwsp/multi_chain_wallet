@@ -1,0 +1,10 @@
+Python libraries:
+    bit
+    lit
+    web3
+    eth_account
+    subprocess
+    json
+    os
+    dotenv
+
